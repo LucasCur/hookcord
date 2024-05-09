@@ -1,0 +1,20 @@
+/* public/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  textarea {
+    width: 100%;
+    resize: vertical;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+  }
+  
